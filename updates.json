@@ -1,0 +1,13 @@
+{
+  "weekId": "2026-11-07-setup",
+  "generated": "2026-11-07T05:15:00-06:00",
+  "summary": "Weekly feed connected. First full check runs Sunday morning.",
+  "findings": [
+    {
+      "type": "info",
+      "title": "Weekly feed connected",
+      "detail": "Every Sunday morning this feed is refreshed with exam prices and retirements, voucher events, course sales, transfer credit rules, WGU deadlines, Southwest/Love Field IT openings, new videos, and (from January) Dallas help desk jobs.",
+      "link": ""
+    }
+  ]
+}
