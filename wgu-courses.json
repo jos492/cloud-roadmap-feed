@@ -1,0 +1,192 @@
+{
+ "program": "B.S. Cybersecurity and Information Assurance",
+ "catalog": "202610",
+ "source": "https://www.wgu.edu/content/dam/wgu-65-assets/western-governors/documents/program-guides/information-technology/BSCSIA.pdf",
+ "courses": [
+  {
+   "name": "Health, Fitness, and Wellness",
+   "cu": 4,
+   "term": 1
+  },
+  {
+   "name": "Practical Applications of Prompt",
+   "cu": 2,
+   "term": 1
+  },
+  {
+   "name": "Composition: Successful Self-Expression",
+   "cu": 3,
+   "term": 1
+  },
+  {
+   "name": "Introduction to IT",
+   "cu": 3,
+   "term": 1
+  },
+  {
+   "name": "Ethics in Technology",
+   "cu": 3,
+   "term": 2
+  },
+  {
+   "name": "IT Foundations",
+   "cu": 4,
+   "term": 2
+  },
+  {
+   "name": "Applied Probability and Statistics",
+   "cu": 3,
+   "term": 2
+  },
+  {
+   "name": "Natural Science Lab",
+   "cu": 2,
+   "term": 2
+  },
+  {
+   "name": "IT Applications",
+   "cu": 4,
+   "term": 3
+  },
+  {
+   "name": "Applied Algebra",
+   "cu": 3,
+   "term": 3
+  },
+  {
+   "name": "Fundamentals of Information Security",
+   "cu": 3,
+   "term": 3
+  },
+  {
+   "name": "Network and Security - Foundations",
+   "cu": 3,
+   "term": 3
+  },
+  {
+   "name": "Critical Thinking: Reason and Evidence",
+   "cu": 3,
+   "term": 4
+  },
+  {
+   "name": "Networks",
+   "cu": 4,
+   "term": 4
+  },
+  {
+   "name": "Introduction to Communication: Connecting with Others",
+   "cu": 3,
+   "term": 4
+  },
+  {
+   "name": "Business of IT - Applications",
+   "cu": 4,
+   "term": 4
+  },
+  {
+   "name": "American Politics and the US Constitution",
+   "cu": 3,
+   "term": 5
+  },
+  {
+   "name": "Network and Security - Applications",
+   "cu": 4,
+   "term": 5
+  },
+  {
+   "name": "Legal Issues in Information Security",
+   "cu": 4,
+   "term": 5
+  },
+  {
+   "name": "Applied Discrete Mathematics",
+   "cu": 3,
+   "term": 5
+  },
+  {
+   "name": "Introduction to Cryptography",
+   "cu": 4,
+   "term": 6
+  },
+  {
+   "name": "Digital Forensics in Cybersecurity",
+   "cu": 4,
+   "term": 6
+  },
+  {
+   "name": "Information Systems Security",
+   "cu": 4,
+   "term": 6
+  },
+  {
+   "name": "Foundations of Programming (Python)",
+   "cu": 3,
+   "term": 7
+  },
+  {
+   "name": "Version Control",
+   "cu": 1,
+   "term": 7
+  },
+  {
+   "name": "Python for IT Automation",
+   "cu": 3,
+   "term": 7
+  },
+  {
+   "name": "Introduction to AI and Security",
+   "cu": 2,
+   "term": 7
+  },
+  {
+   "name": "Software Security and Testing",
+   "cu": 3,
+   "term": 7
+  },
+  {
+   "name": "Linux Foundations",
+   "cu": 3,
+   "term": 8
+  },
+  {
+   "name": "Data Management - Foundations",
+   "cu": 3,
+   "term": 8
+  },
+  {
+   "name": "Data Analytics - Applications",
+   "cu": 4,
+   "term": 8
+  },
+  {
+   "name": "Managing Information Security",
+   "cu": 3,
+   "term": 8
+  },
+  {
+   "name": "Business of IT - Project Management",
+   "cu": 4,
+   "term": 9
+  },
+  {
+   "name": "Cyber Defense and Countermeasures",
+   "cu": 4,
+   "term": 9
+  },
+  {
+   "name": "Managing Cloud Security",
+   "cu": 4,
+   "term": 9
+  },
+  {
+   "name": "Penetration Testing and Vulnerability Analysis",
+   "cu": 4,
+   "term": 10
+  },
+  {
+   "name": "Cybersecurity and Information Assurance Capstone",
+   "cu": 4,
+   "term": 10
+  }
+ ]
+}
